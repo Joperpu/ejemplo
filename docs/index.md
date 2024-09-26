@@ -2,10 +2,4 @@
 
 Hola a toda la clase
 
-## Capitulo 1
-
-asijdkflsjg
-
-## Soisaljdf
-
-
+Probando el despliegue automático
